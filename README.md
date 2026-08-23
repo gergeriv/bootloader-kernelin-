@@ -1,3 +1,4 @@
+![](images/kernelin.png)
 # bootloader kernelin
 ## loader writed on assembler launguage.
 
