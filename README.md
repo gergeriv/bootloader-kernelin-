@@ -1,5 +1,5 @@
 # bootloader kernelin
-loader writed on assembler launguage.
+## loader writed on assembler launguage.
 
 ## loader can:
 walk from 16 bits unprotected mode, to 32 bits protected mode,
