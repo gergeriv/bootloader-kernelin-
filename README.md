@@ -5,7 +5,7 @@
 ## loader can:
 walk from 16 bits real mode, to 32 bits protected mode,
 
-can be useful for your miniOS.
+loading from disk 
 
 ## license
 mit license on this project.
