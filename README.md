@@ -11,6 +11,4 @@ loading from disk
 mit license on this project.
 
 ## scripts
-![asm](upload/boot.asm)
-
-![bin](upload/boot.bin)
+![asm](upload/boot104asm)
