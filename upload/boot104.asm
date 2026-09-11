@@ -1,3 +1,6 @@
+; disk load in x86_64
+; created for your systems <3
+
 [org 0x7C00]
 [bits 16]
 
